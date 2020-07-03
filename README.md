@@ -1,4 +1,4 @@
-# SearchInA2DArrayII-Leetcode-240
+# SearchInA2DMatrixII-Leetcode-240
 
 Leetcode Question 240 (Medium)
 
