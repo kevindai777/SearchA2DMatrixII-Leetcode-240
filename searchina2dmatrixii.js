@@ -12,7 +12,7 @@ let matrix =
 
 //O(n * m) solution that starts at the bottom left corner.
 
-let row = matrix.length 
+let row = matrix.length - 1
 let column = 0
 
 while (row >= 0 && column < matrix[0].length) {
